@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27914400094",
+    "project_id": "healthypet-18aa1",
+    "storage_bucket": "healthypet-18aa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27914400094:android:608ad8a4c9ac0a0bba1fcf",
+        "android_client_info": {
+          "package_name": "com.example.healthypet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKMGSDd_1SKXF8lXk87SEn5rd-ZB9IRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
